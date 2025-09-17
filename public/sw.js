@@ -1,75 +1,82 @@
-const CACHE_NAME = 'inscricoes-cache-v4';
-const ASSETS = [
-  './',            // Garante que / seja cacheado
-  'index.html',
-  'styles.css',
-  'frontend.js',
-  'manifest.json',
-  'sw.js'
+// public/sw.js
+const CACHE_NAME = 'inscricoes-cache-v7';
+
+const APP_SHELL = [
+  '/',
+  '/frontend.js',
+  '/sw.js',
+  '/index.html',
+  '/styles.css',
+  '/manifest.json'
 ];
 
-self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then(cache => cache.addAll(ASSETS))
-  );
-  self.skipWaiting();
-});
-
-self.addEventListener('activate', event => {
-  const cacheWhitelist = [CACHE_NAME];
-  event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return Promise.all(
-        cacheNames.map(cacheName => {
-          if (!cacheWhitelist.includes(cacheName)) {
-            return caches.delete(cacheName);
-          }
-        })
-      );
-    }).then(() => self.clients.claim())
+self.addEventListener('install', (e) => {
+  e.waitUntil(
+    caches.open(CACHE_NAME).then(c => c.addAll(APP_SHELL))
+      .then(() => self.skipWaiting())
   );
 });
 
-self.addEventListener('fetch', event => {
-  const req = event.request;
+self.addEventListener('activate', (e) => {
+  e.waitUntil(
+    caches.keys().then(keys =>
+      Promise.all(keys.map(k => k !== CACHE_NAME && k.startsWith('inscricoes-cache-') ? caches.delete(k) : null))
+    ).then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('fetch', (e) => {
+  const req = e.request;
+  if (req.method !== 'GET') return;
+
   const url = new URL(req.url);
+  const sameOrigin = url.origin === self.location.origin;
 
-  // Ignora requisições para o CouchDB, /api/ ou métodos não-GET
+  // 1) Navegações -> Cache First (App Shell)
+  if (req.mode === 'navigate') {
+    e.respondWith(
+      caches.match('/index.html').then(r => r || caches.match('/')) // tenta index, senão raiz
+        .then(r => r || fetch(req).catch(() => new Response('<h1>Offline</h1>', { headers:{'Content-Type':'text/html'} })))
+    );
+    return;
+  }
 
-  if (url.host === 'couch.intranet-app.duckdns.org' || url.pathname.startsWith('/api/') || req.method !== 'GET') {
-    return event.respondWith(
-      fetch(req).catch(() => {
-        if (req.mode === 'navigate') {
-          return caches.match('index.html');
+  // 2) APIs da mesma origem -> Network First com fallback ao cache (última resposta boa) ou vazio
+  if (sameOrigin && url.pathname.startsWith('/api/')) {
+    e.respondWith(
+      fetch(req).then(res => {
+        if (res.ok) {
+          const copy = res.clone();
+          caches.open(CACHE_NAME).then(c => c.put(req, copy));
         }
+        return res;
+      }).catch(async () => {
+        const cached = await caches.match(req);
+        if (cached) return cached;
+        return new Response(JSON.stringify({ offline: true, data: [] }), {
+          headers: { 'Content-Type': 'application/json' }, status: 200
+        });
       })
     );
+    return;
   }
 
-  // Para navegação no SPA: sempre responda com index.html
-  if (req.mode === 'navigate') {
-    return event.respondWith(caches.match('index.html'));
+  // 3) Estáticos da mesma origem -> Cache First com atualização em segundo plano
+  if (sameOrigin && /\.(?:js|css|png|jpg|jpeg|svg|webp|ico|html|json)$/.test(url.pathname)) {
+    e.respondWith((async () => {
+      const cache = await caches.open(CACHE_NAME);
+      const cached = await cache.match(req);
+      const net = fetch(req).then(res => {
+        if (res && res.status === 200) cache.put(req, res.clone());
+        return res;
+      }).catch(() => null);
+      return cached || net || new Response('', { status: 504 });
+    })());
+    return;
   }
 
-  // Primeiro tenta cache, depois rede, e atualiza cache
-  event.respondWith(
-    caches.match(req).then(cached => {
-      if (cached) return cached;
-      return fetch(req).then(networkRes => {
-        // Só armazena no cache se a URL começar com http ou https
-        if (url.protocol.startsWith('http')) {
-          caches.open(CACHE_NAME).then(cache => {
-            cache.put(req, networkRes.clone());
-          });
-        }
-        return networkRes;
-      }).catch(() => {
-        // Fallback para index.html se for requisição de navegação
-        if (req.mode === 'navigate') {
-          return caches.match('index.html');
-        }
-      });
-    })
+  // 4) Outras origens -> tenta cache, senão rede
+  e.respondWith(
+    caches.match(req).then(c => c || fetch(req).catch(() => new Response('', { status: 504 })))
   );
 });
