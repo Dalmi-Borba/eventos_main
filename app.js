@@ -42,27 +42,40 @@ app.get('/api/aventuri', async (req, res) => {
   }
 });
 
+// helper para remover acentos e padronizar
+const norm = s => (s ?? '').toString().normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
+
 app.post('/api/search', async (req, res) => {
   const { searchTerm = '', clubFilter = '' } = req.body;
   try {
     const all = await db.allDocs({ include_docs: true, limit: 1000000 });
+    const q = norm(searchTerm);
+    const club = norm(clubFilter);
+
     let docs = all.rows.map(r => r.doc);
 
-    // filtros
-    docs = docs.filter(d =>
-      (d["NOME DO USUARIO"]||'').toLowerCase().includes(searchTerm.toLowerCase()) ||
-      (d["CPF"]||'').includes(searchTerm)
-    );
-    if (clubFilter) {
-      docs = docs.filter(d =>
-        (d["CLUBE DE ORIGEM"]||'').toLowerCase().includes(clubFilter.toLowerCase())
-      );
+    // campos onde a busca geral deve atuar
+    const FIELDS = [
+      'NOME DO USUARIO',
+      'CPF',
+      'CLUBE DE ORIGEM',
+      '_id'
+    ];
+
+    if (q) {
+      docs = docs.filter(d => FIELDS.some(f => norm(d[f]).includes(q)));
     }
+
+    if (club) {
+      docs = docs.filter(d => norm(d['CLUBE DE ORIGEM']).includes(club));
+    }
+
     res.json(docs);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 });
+
 
 app.get('/api/clubs', async (req, res) => {
   const term = (req.query.query || '').toLowerCase();
