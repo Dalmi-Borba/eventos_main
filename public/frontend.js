@@ -65,9 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
     noResults.style.display = 'none';
     tbody.innerHTML = docs.map(d => `
       <tr>
-        <td>${d._id}</td>
         <td>${d["NOME DO USUARIO"] || ''}</td>
-        <td>${d.CPF || ''}</td>
         <td>${d["CLUBE DE ORIGEM"] || ''}</td>
         <td>
           <button class="${d.CHECKOUT === 'Y' ? 'btn-checkout' : 'btn-checkin'}"
