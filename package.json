@@ -1,0 +1,15 @@
+{
+  "name": "sistema-inscricoes-html",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^4.18.2",
+    "helmet": "^8.1.0",
+    "pouchdb": "^8.0.1"
+  }
+}

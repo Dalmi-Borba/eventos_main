@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Inscrições Offline-First</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/pouchdb@8.0.1/dist/pouchdb.min.js"></script>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Inscrições</h1>
+      <p class="subtitle">Pesquise por nome, CPF ou clube</p>
+    </header>
+
+    <form id="searchForm" class="search-form">
+      <div class="field">
+        <input type="text" id="searchTerm" placeholder="🔍 Nome ou CPF"/>
+      </div>
+      <div class="field autocomplete-wrapper">
+        <div class="input-with-clear">
+          <input type="text" id="clubTerm" placeholder="🏷️ Clube" autocomplete="off"/>
+          <span class="clear-icon" id="clearClubBtn">&times;</span>
+        </div>
+        <ul id="clubAutocomplete" class="autocomplete-list"></ul>
+      </div>
+      <button type="submit" id="btnSearch" class="btn-primary">Buscar</button>
+    </form>
+
+    <!-- Lista de filtros de clube salvos -->
+    <section class="saved-clubs">
+      <h2>Filtros de Clube Salvos</h2>
+      <div id="savedClubsContainer" class="saved-clubs-list"></div>
+    </section>
+
+    <div id="loading" class="loading">Carregando…</div>
+    <div id="error" class="error"></div>
+
+    <div class="table-wrapper">
+      <table id="resultsTable">
+        <thead>
+          <tr>
+            <th>ID</th><th>Usuário</th><th>CPF</th><th>Clube</th><th>Ações</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div id="noResults" class="no-results">Nenhum resultado encontrado.</div>
+    </div>
+  </div>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./sw.js', { scope: './' })
+        .catch(err => console.error('SW registro falhou:', err));
+    }
+  </script>
+  <script defer src="frontend.js"></script>
+  
+</body>
+</html>

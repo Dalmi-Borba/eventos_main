@@ -1,0 +1,2167 @@
+{
+  "docs": [
+  {
+    "_id": "1",
+    "CPF": "",
+    "NOME DO USUARIO": "ADRIEL CORRÊA DA SILVIA",
+    "CLUBE DE ORIGEM": "TAQUARAL BOSQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "2",
+    "CPF": "",
+    "NOME DO USUARIO": "ALEX SANDRO DA SILVA FERNANDES",
+    "CLUBE DE ORIGEM": "JARDIM BÁLSAMO II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "3",
+    "CPF": "",
+    "NOME DO USUARIO": "ALEXANDRE GABRIEL BATISTA CARDOSO",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "4",
+    "CPF": "",
+    "NOME DO USUARIO": "ALTEMIR NUNES PACHECO",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "5",
+    "CPF": "",
+    "NOME DO USUARIO": "AMANDA DA COSTA BORGES",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "6",
+    "CPF": "",
+    "NOME DO USUARIO": "AMANDA TAGLIALENHA MANTOVANI",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "7",
+    "CPF": "",
+    "NOME DO USUARIO": "ANA BEATRIZ ESMORGES DA COSTA",
+    "CLUBE DE ORIGEM": "PAULO COELHO MACHADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "8",
+    "CPF": "",
+    "NOME DO USUARIO": "ANALICE LOPES DOS SANTOS",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "9",
+    "CPF": "",
+    "NOME DO USUARIO": "ANDERLEIA PAULINA MENEZES",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "10",
+    "CPF": "",
+    "NOME DO USUARIO": "ANDREY GIULIANO FERREIRA TEIXEIRA",
+    "CLUBE DE ORIGEM": "PRIMEIRA ESSÊNCIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "11",
+    "CPF": "",
+    "NOME DO USUARIO": "ANNA LUIZA MAGALHÃES FERNANDES",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "12",
+    "CPF": "",
+    "NOME DO USUARIO": "ANNE MARGARETE BRAGA PADILHA CAVALCANTE ALVES",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "13",
+    "CPF": "",
+    "NOME DO USUARIO": "ANNELYSE LIMA CARAMALAKI DA SILVA",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "14",
+    "CPF": "",
+    "NOME DO USUARIO": "ARIADNE RODRIGUES COSTA PINTO",
+    "CLUBE DE ORIGEM": "SILVIA REGINA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "15",
+    "CPF": "",
+    "NOME DO USUARIO": "ARLETE ANDRADE DOS SANTOS GONÇALVES",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "16",
+    "CPF": "",
+    "NOME DO USUARIO": "ARTHUR EVER NEPOMUCENO ESCOBAR",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "17",
+    "CPF": "",
+    "NOME DO USUARIO": "ARTHUR OLIVEIRA DA COSTA",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "18",
+    "CPF": "",
+    "NOME DO USUARIO": "AZENATE CRISTINA DE OLIVEIRA CARDOZO",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "19",
+    "CPF": "",
+    "NOME DO USUARIO": "BIANKA FÉLIX LOPES",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "20",
+    "CPF": "",
+    "NOME DO USUARIO": "BRENDA GONÇALVES RAMALHO",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "21",
+    "CPF": "",
+    "NOME DO USUARIO": "CAIO ALVES CORREIA",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "22",
+    "CPF": "",
+    "NOME DO USUARIO": "CARLOS HENRIQUE FREIRE DA SILVA",
+    "CLUBE DE ORIGEM": "CENTRAL - RIO BRILHANTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "23",
+    "CPF": "",
+    "NOME DO USUARIO": "CAROLINE LOPES BARBOSA  MATSUI",
+    "CLUBE DE ORIGEM": "CAARAPÓ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "24",
+    "CPF": "",
+    "NOME DO USUARIO": "CASSIANO SAMPAIO DESCOVI",
+    "CLUBE DE ORIGEM": "BAIRRO PROGRESSO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "25",
+    "CPF": "",
+    "NOME DO USUARIO": "CHRISTIAN EDUARDO ROCHA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "26",
+    "CPF": "",
+    "NOME DO USUARIO": "CLAUDIA MACEDO DOS SANTOS",
+    "CLUBE DE ORIGEM": "MARIA APARECIDA PEDROSSIAN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "27",
+    "CPF": "",
+    "NOME DO USUARIO": "CLAUDINEY DUARTE PRIMO",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "28",
+    "CPF": "",
+    "NOME DO USUARIO": "CLAUDIO DA SILVA FELIX",
+    "CLUBE DE ORIGEM": "ALDEIA DE LAGOINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "29",
+    "CPF": "",
+    "NOME DO USUARIO": "CLEICIANE DA SILVA GRANJA FLORENTIM",
+    "CLUBE DE ORIGEM": "BETHAVILLE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "30",
+    "CPF": "",
+    "NOME DO USUARIO": "CLEIDE APARECIDA SILVA SANTANA",
+    "CLUBE DE ORIGEM": "CAIÇARA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "31",
+    "CPF": "",
+    "NOME DO USUARIO": "CLEITON CAMARGO ALONSO",
+    "CLUBE DE ORIGEM": "CENTRAL - ANASTÁCIO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "32",
+    "CPF": "",
+    "NOME DO USUARIO": "CLOTILDE DE SOUZA GOMES",
+    "CLUBE DE ORIGEM": "JARDIM LEBLON",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "33",
+    "CPF": "",
+    "NOME DO USUARIO": "CRISTIANE PACHECO DE MIRANDA",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "34",
+    "CPF": "",
+    "NOME DO USUARIO": "CRISTIANO RAMIRES DA ROSA",
+    "CLUBE DE ORIGEM": "MONTE CASTELO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "35",
+    "CPF": "",
+    "NOME DO USUARIO": "CYNTHIA ADALGISA MESOJEDOVAS DE AGUIAR FALSON",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "36",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIEL CANDELORO",
+    "CLUBE DE ORIGEM": "ALVES PEREIRA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "37",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIEL DE SIQUEIRA ALVES",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "38",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIEL ESTEVÃO GARCIA HEIMBACK",
+    "CLUBE DE ORIGEM": "TAQUARAL BOSQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "39",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIEL FERREIRA DE SOUZA",
+    "CLUBE DE ORIGEM": "TAQUARAL BOSQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "40",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIEL LIMA DA SILVA",
+    "CLUBE DE ORIGEM": "JAIR GARCIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "41",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIELA ARAUJO MACHADO NASCIMENTO",
+    "CLUBE DE ORIGEM": "SANTA EMÍLIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "42",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIELA DE ARRUDA GONCALVES",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "43",
+    "CPF": "",
+    "NOME DO USUARIO": "DANIELLE FABIANA BACELAR RAMIRES ARRUDA",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "44",
+    "CPF": "",
+    "NOME DO USUARIO": "DANILO SILVA",
+    "CLUBE DE ORIGEM": "JARDIM BÁLSAMO II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "45",
+    "CPF": "",
+    "NOME DO USUARIO": "DANYLLO MACEDO DE OLIVEIRA SILVA",
+    "CLUBE DE ORIGEM": "BAIRRO SANTA CARMÉLIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "46",
+    "CPF": "",
+    "NOME DO USUARIO": "DAVI DOS SANTOS FERNANDES",
+    "CLUBE DE ORIGEM": "JARDIM CARIOCA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "47",
+    "CPF": "",
+    "NOME DO USUARIO": "DAVI NANTES MACHADO",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "48",
+    "CPF": "",
+    "NOME DO USUARIO": "DEMIS DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "49",
+    "CPF": "",
+    "NOME DO USUARIO": "DENIRA DA SILVA FERREIRA FONTES",
+    "CLUBE DE ORIGEM": "JARDIM CORCOVADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "50",
+    "CPF": "",
+    "NOME DO USUARIO": "DENYSON LEITE PEREIRA DE ALMEIDA",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "51",
+    "CPF": "",
+    "NOME DO USUARIO": "DIEGO LOPES DE SOUZA",
+    "CLUBE DE ORIGEM": "PÊNFIGO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "52",
+    "CPF": "",
+    "NOME DO USUARIO": "DIEGO PEREIRA DA SILVA",
+    "CLUBE DE ORIGEM": "JARDIM CARIOCA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "53",
+    "CPF": "",
+    "NOME DO USUARIO": "DIOGO DE SOUZA MARQUES",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "54",
+    "CPF": "",
+    "NOME DO USUARIO": "DOUGLAS OLIVEIRA DAS NEVES",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "55",
+    "CPF": "",
+    "NOME DO USUARIO": "EDENER PAULO DE MORAIS DOS SANTOS",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "56",
+    "CPF": "",
+    "NOME DO USUARIO": "EDER ARNAS BUENO",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "57",
+    "CPF": "",
+    "NOME DO USUARIO": "EDER GONCALVES DE CARVALHO",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "58",
+    "CPF": "",
+    "NOME DO USUARIO": "EDILÂNIA MARIA DA SILVA",
+    "CLUBE DE ORIGEM": "UNIÃO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "59",
+    "CPF": "",
+    "NOME DO USUARIO": "ELAINE DA CUNHA LIMA LOURENÇO",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "60",
+    "CPF": "",
+    "NOME DO USUARIO": "ELIELTTON GOMES DA SILVA SOUZA",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "61",
+    "CPF": "",
+    "NOME DO USUARIO": "ELIEZER LUIZ PAES",
+    "CLUBE DE ORIGEM": "ALDEIA DE LAGOINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "62",
+    "CPF": "",
+    "NOME DO USUARIO": "ELIMARA SILVA DE SOUZA NOGUEIRA",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "63",
+    "CPF": "",
+    "NOME DO USUARIO": "ELIZABETE DA CRUZ SILVA GOES",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "64",
+    "CPF": "",
+    "NOME DO USUARIO": "ELIZÂNGELA DOS SANTOS PEREIRA ARCE",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "65",
+    "CPF": "",
+    "NOME DO USUARIO": "ELLEN DA SILVA PARDIM MACEDO",
+    "CLUBE DE ORIGEM": "NOVA LIMA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "66",
+    "CPF": "",
+    "NOME DO USUARIO": "ELYSIE SILVA NOGUEIRA",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "67",
+    "CPF": "",
+    "NOME DO USUARIO": "ELZA TEREZA SANTOS",
+    "CLUBE DE ORIGEM": "JARDIM ITAMARACÁ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "68",
+    "CPF": "",
+    "NOME DO USUARIO": "EMANUELI CRISTINA DUARTE",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "69",
+    "CPF": "",
+    "NOME DO USUARIO": "EMERSON DOMINGUES DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "70",
+    "CPF": "",
+    "NOME DO USUARIO": "ENZO CORREIA DE BARROS",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "71",
+    "CPF": "",
+    "NOME DO USUARIO": "ENZO JULIÃO",
+    "CLUBE DE ORIGEM": "CAARAPÓ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "72",
+    "CPF": "",
+    "NOME DO USUARIO": "ENZO POMPEO OLIVEIRA FRANTZ",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "73",
+    "CPF": "",
+    "NOME DO USUARIO": "ERICA JARA CRUZ CARVALHO",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "74",
+    "CPF": "",
+    "NOME DO USUARIO": "ERICK BERNARDO ALVES BILETAR",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "75",
+    "CPF": "",
+    "NOME DO USUARIO": "ESMERALDA DE OLIVEIRA NANTES",
+    "CLUBE DE ORIGEM": "JARDIM CENTENÁRIO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "76",
+    "CPF": "",
+    "NOME DO USUARIO": "ESTER SANTOS LEITE",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "77",
+    "CPF": "",
+    "NOME DO USUARIO": "ESTHER ORTIZ RAMIRES",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "78",
+    "CPF": "",
+    "NOME DO USUARIO": "EUCARLOS DE LIMA MARTINS",
+    "CLUBE DE ORIGEM": "CENTRAL - NAVIRAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "79",
+    "CPF": "",
+    "NOME DO USUARIO": "EVANDER GONÇALVES MONTEIRO",
+    "CLUBE DE ORIGEM": "ALTOS DA CIDADE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "80",
+    "CPF": "",
+    "NOME DO USUARIO": "EWERTON GEANDELLI DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "81",
+    "CPF": "",
+    "NOME DO USUARIO": "FELIPE PASTICK DE CARVALHO PEREIRA",
+    "CLUBE DE ORIGEM": "ROCHEDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "82",
+    "CPF": "",
+    "NOME DO USUARIO": "FERNANDA DAS NEVES MERQUEADES SANTOS",
+    "CLUBE DE ORIGEM": "PORTAL DA LAGOA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "83",
+    "CPF": "",
+    "NOME DO USUARIO": "FLÁVIA RODRIGUES GOMES",
+    "CLUBE DE ORIGEM": "SILVIA REGINA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "84",
+    "CPF": "",
+    "NOME DO USUARIO": "FLÁVIO GOMES FIALHO VEDOJA",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "85",
+    "CPF": "",
+    "NOME DO USUARIO": "FLÁVIO RODRIGUES DE SOUZA",
+    "CLUBE DE ORIGEM": "PÊNFIGO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "86",
+    "CPF": "",
+    "NOME DO USUARIO": "FRANCINETE DA SILVA PACHECO RIBEIRO",
+    "CLUBE DE ORIGEM": "BETHAVILLE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "87",
+    "CPF": "",
+    "NOME DO USUARIO": "FRANCIVAL CARVALHO DE ASSIS",
+    "CLUBE DE ORIGEM": "SUMATRA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "88",
+    "CPF": "",
+    "NOME DO USUARIO": "GABRIEL CARMO",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "89",
+    "CPF": "",
+    "NOME DO USUARIO": "GABRIEL MONTEIRO PINHEIRO",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "90",
+    "CPF": "",
+    "NOME DO USUARIO": "GABRIEL WILLYE BORGES VALENÇOELA",
+    "CLUBE DE ORIGEM": "ALVORADA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "91",
+    "CPF": "",
+    "NOME DO USUARIO": "GABRIELA RAMIRES BUENO",
+    "CLUBE DE ORIGEM": "MONTE CASTELO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "92",
+    "CPF": "",
+    "NOME DO USUARIO": "GABRIELLY PINHEIRO SANTIAGO DIAS",
+    "CLUBE DE ORIGEM": "SOL NASCENTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "93",
+    "CPF": "",
+    "NOME DO USUARIO": "GEICIELLE DE SOUZA FEITOSA MONTEIRO",
+    "CLUBE DE ORIGEM": "ALTOS DA CIDADE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "94",
+    "CPF": "",
+    "NOME DO USUARIO": "GEOVANA DA SILVA NASCIMENTO",
+    "CLUBE DE ORIGEM": "NOVO HORIZONTE DO SUL",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "95",
+    "CPF": "",
+    "NOME DO USUARIO": "GIOVANNA RAFAELA ARGILAR LOPES",
+    "CLUBE DE ORIGEM": "PORTAL DA LAGOA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "96",
+    "CPF": "",
+    "NOME DO USUARIO": "GISLEINE DA SILVA RODRIGUES",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "97",
+    "CPF": "",
+    "NOME DO USUARIO": "GIULIA EVARISTO DA SILVA",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "98",
+    "CPF": "",
+    "NOME DO USUARIO": "GLAUCIA VANDERLEI DE SOUZA SANTOS",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "99",
+    "CPF": "",
+    "NOME DO USUARIO": "GRACIELA DE LIMA RODRIGUES",
+    "CLUBE DE ORIGEM": "TIRADENTES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "100",
+    "CPF": "",
+    "NOME DO USUARIO": "GRAZIELA AIRES DE SOUZA SILVA",
+    "CLUBE DE ORIGEM": "PORTAL DA LAGOA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "101",
+    "CPF": "",
+    "NOME DO USUARIO": "GRAZIELA SANTOS MASCARENHAS",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "102",
+    "CPF": "",
+    "NOME DO USUARIO": "GRAZIELLY CÁCERES VEGAS",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "103",
+    "CPF": "",
+    "NOME DO USUARIO": "GUILHERME AMARILHA BRUM",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "104",
+    "CPF": "",
+    "NOME DO USUARIO": "GUILHERME GUBERT BARBOSA",
+    "CLUBE DE ORIGEM": "NOVO HORIZONTE DO SUL",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "105",
+    "CPF": "",
+    "NOME DO USUARIO": "GUILHERME SIMÃO RODRIGUES DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "SANTA TEREZINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "106",
+    "CPF": "",
+    "NOME DO USUARIO": "GUSTAVO ARAUJO DO NASCIMENTO",
+    "CLUBE DE ORIGEM": "SANTA EMÍLIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "107",
+    "CPF": "",
+    "NOME DO USUARIO": "GUSTAVO MACEDO MARTINS",
+    "CLUBE DE ORIGEM": "NOVA LIMA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "108",
+    "CPF": "",
+    "NOME DO USUARIO": "GUSTAVO RATIER CARDOSO",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "109",
+    "CPF": "",
+    "NOME DO USUARIO": "HADASSA TESSARO SANTOS",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "110",
+    "CPF": "",
+    "NOME DO USUARIO": "HAROLDO CORDEIRO ALVES",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "111",
+    "CPF": "",
+    "NOME DO USUARIO": "HELLEN BARLATTI DE MACEDO PEREIRA",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "112",
+    "CPF": "",
+    "NOME DO USUARIO": "HELOISE OVELAR ROCHA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "113",
+    "CPF": "",
+    "NOME DO USUARIO": "HEMERSON ALAN FLORENTIM COSTA",
+    "CLUBE DE ORIGEM": "BETHAVILLE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "114",
+    "CPF": "",
+    "NOME DO USUARIO": "IARA CRISTINA VIEIRA",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "115",
+    "CPF": "",
+    "NOME DO USUARIO": "INAE MALACHIAS SANTANA VEDOJA",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "116",
+    "CPF": "",
+    "NOME DO USUARIO": "INGRID ALVES FRANCISCO RODRIGUES",
+    "CLUBE DE ORIGEM": "MARIA APARECIDA PEDROSSIAN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "117",
+    "CPF": "",
+    "NOME DO USUARIO": "INGRID GOMES DA SILVA",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "118",
+    "CPF": "",
+    "NOME DO USUARIO": "INGRID SILVA DOS SANTOS",
+    "CLUBE DE ORIGEM": "JARDIM AEROPORTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "119",
+    "CPF": "",
+    "NOME DO USUARIO": "IRENILDA ANTÔNIA DA SILVA ALCÂNTARA",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "120",
+    "CPF": "",
+    "NOME DO USUARIO": "ISABELA STAEL SANTOS CARMO CARDEAL",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "121",
+    "CPF": "",
+    "NOME DO USUARIO": "ISABELLA LOPES RODRIGUES",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "122",
+    "CPF": "",
+    "NOME DO USUARIO": "ISABELLA SANTOS PINTO BUREMAN",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "123",
+    "CPF": "",
+    "NOME DO USUARIO": "IVANIR NEVES DE LIMA",
+    "CLUBE DE ORIGEM": "VILA KELLEN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "124",
+    "CPF": "",
+    "NOME DO USUARIO": "IZABEL ALVES DA SILVA",
+    "CLUBE DE ORIGEM": "ROCHEDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "125",
+    "CPF": "",
+    "NOME DO USUARIO": "IZABELA JARA",
+    "CLUBE DE ORIGEM": "CENTRAL - CAMPO GRANDE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "126",
+    "CPF": "",
+    "NOME DO USUARIO": "JACIENE DÉBORA VIGABRIEL DA SILVA",
+    "CLUBE DE ORIGEM": "JARDIM CARIOCA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "127",
+    "CPF": "",
+    "NOME DO USUARIO": "JAINARA MARTINS RODRIGUES",
+    "CLUBE DE ORIGEM": "JARDIM AEROPORTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "128",
+    "CPF": "",
+    "NOME DO USUARIO": "JAIRO DOS SANTOS NASCIMENTO",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "129",
+    "CPF": "",
+    "NOME DO USUARIO": "JANE ALVES LEITE",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "130",
+    "CPF": "",
+    "NOME DO USUARIO": "JANETE DUARTE DE OLIVEIRA ALMEIDA",
+    "CLUBE DE ORIGEM": "VILA KELLEN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "131",
+    "CPF": "",
+    "NOME DO USUARIO": "JAQUELINE SOARES DIAS CORRÊA",
+    "CLUBE DE ORIGEM": "TAQUARAL BOSQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "132",
+    "CPF": "",
+    "NOME DO USUARIO": "JEFTER SILVA SANTOS",
+    "CLUBE DE ORIGEM": "COXIM",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "133",
+    "CPF": "",
+    "NOME DO USUARIO": "JIMYS HENDRIX ISACKSSON MONTEIRO",
+    "CLUBE DE ORIGEM": "TIRADENTES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "134",
+    "CPF": "",
+    "NOME DO USUARIO": "JOEL VIEIRA SANTOS",
+    "CLUBE DE ORIGEM": "MORENINHA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "135",
+    "CPF": "",
+    "NOME DO USUARIO": "JONAS VIEIRA SANTOS",
+    "CLUBE DE ORIGEM": "MORENINHA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "136",
+    "CPF": "",
+    "NOME DO USUARIO": "JORGE RAMÓN RAMÍREZ",
+    "CLUBE DE ORIGEM": "BETHAVILLE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "137",
+    "CPF": "",
+    "NOME DO USUARIO": "JORLANDO RODRIGUES DOS SANTOS",
+    "CLUBE DE ORIGEM": "CENTRAL - NAVIRAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "138",
+    "CPF": "",
+    "NOME DO USUARIO": "JOSE MARIO DE BARROS JUNIOR",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "139",
+    "CPF": "",
+    "NOME DO USUARIO": "JOSIANE ALVES GONDIM DOS SANTOS",
+    "CLUBE DE ORIGEM": "VIVA VIDA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "140",
+    "CPF": "",
+    "NOME DO USUARIO": "JOSÉ CARLOS BENITES LEITE NETO",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "141",
+    "CPF": "",
+    "NOME DO USUARIO": "JOSÉ FRANCISCO BARRETO",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "142",
+    "CPF": "",
+    "NOME DO USUARIO": "JOSÉ MARIA SERRA",
+    "CLUBE DE ORIGEM": "JARDIM LEBLON",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "143",
+    "CPF": "",
+    "NOME DO USUARIO": "JOÃO ENOQUE CALDEIRA DA SILVA",
+    "CLUBE DE ORIGEM": "CENTRAL - ANASTÁCIO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "144",
+    "CPF": "",
+    "NOME DO USUARIO": "JOÃO LUCAS EVARISTO DA SILVA",
+    "CLUBE DE ORIGEM": "SÃO GABRIEL D`OESTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "145",
+    "CPF": "",
+    "NOME DO USUARIO": "JOÃO PEDRO CASTRO DE SALES",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "146",
+    "CPF": "",
+    "NOME DO USUARIO": "JOÃO PEDRO DE SOUZA PERALTA",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "147",
+    "CPF": "",
+    "NOME DO USUARIO": "JOÃO PEDRO EIFLER MASCARENHAS",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "148",
+    "CPF": "",
+    "NOME DO USUARIO": "JUCILEI DA SILVA CAMELO",
+    "CLUBE DE ORIGEM": "SÃO CONRADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "149",
+    "CPF": "",
+    "NOME DO USUARIO": "JULIA CÉ DO CARMO",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "150",
+    "CPF": "",
+    "NOME DO USUARIO": "JULIA MEDEIROS CAMARGO",
+    "CLUBE DE ORIGEM": "PARQUE DOS IPÊS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "151",
+    "CPF": "",
+    "NOME DO USUARIO": "JULIA PIMENTA TEN CATEN BOTTI",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "152",
+    "CPF": "",
+    "NOME DO USUARIO": "JULIANA FERREIRA SAVALA DE SOUZA",
+    "CLUBE DE ORIGEM": "CENTRAL - CAMPO GRANDE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "153",
+    "CPF": "",
+    "NOME DO USUARIO": "JULIO CESAR BARBOZA GOMES",
+    "CLUBE DE ORIGEM": "TIRADENTES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "154",
+    "CPF": "",
+    "NOME DO USUARIO": "JULIO CESAR DE REZENDE",
+    "CLUBE DE ORIGEM": "MARACAJU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "155",
+    "CPF": "",
+    "NOME DO USUARIO": "JURANDI TIAGO DA ROCHA",
+    "CLUBE DE ORIGEM": "CENTRAL - NAVIRAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "156",
+    "CPF": "",
+    "NOME DO USUARIO": "JÉSSICA ALCÂNTARA MARQUES",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "157",
+    "CPF": "",
+    "NOME DO USUARIO": "JÉSSICA DOS PASSOS VIRAÇÃO DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "158",
+    "CPF": "",
+    "NOME DO USUARIO": "KAICK DE SOUZA SANTANA",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "159",
+    "CPF": "",
+    "NOME DO USUARIO": "KAIO ISAÍAS DOS SANTOS",
+    "CLUBE DE ORIGEM": "RANCHARIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "160",
+    "CPF": "",
+    "NOME DO USUARIO": "KARINA GISLAINE DE AGUIAR",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "161",
+    "CPF": "",
+    "NOME DO USUARIO": "KAROLINE SANTOS NELVO PERUZZO",
+    "CLUBE DE ORIGEM": "CABECEIRA ALEGRE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "162",
+    "CPF": "",
+    "NOME DO USUARIO": "KATIA MARINS DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "JARDIM CORCOVADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "163",
+    "CPF": "",
+    "NOME DO USUARIO": "KEILA ABELHAN ALVES",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "164",
+    "CPF": "",
+    "NOME DO USUARIO": "KEILA CRISTINA DE REZENDE DUARTE",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "165",
+    "CPF": "",
+    "NOME DO USUARIO": "KELLY AMANDA BARROS OLIVEIRA",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "166",
+    "CPF": "",
+    "NOME DO USUARIO": "KESLY BARBOSA CUSTÓDIO",
+    "CLUBE DE ORIGEM": "SANTA TEREZINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "167",
+    "CPF": "",
+    "NOME DO USUARIO": "KETELY BARBOSA CUSTÓDIO",
+    "CLUBE DE ORIGEM": "SANTA TEREZINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "168",
+    "CPF": "",
+    "NOME DO USUARIO": "KEVELLYN PATRÍCIA ALMADA DE SOUZA",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "169",
+    "CPF": "",
+    "NOME DO USUARIO": "LARISSA FERNANDA MOREIRA SILVA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "170",
+    "CPF": "",
+    "NOME DO USUARIO": "LARYSSA CARVALHO BONGIOVANE",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "171",
+    "CPF": "",
+    "NOME DO USUARIO": "LAURINETE PEREIRA DOS SANTOS MACEDO",
+    "CLUBE DE ORIGEM": "LUZES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "172",
+    "CPF": "",
+    "NOME DO USUARIO": "LAYNE MOREIRA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "173",
+    "CPF": "",
+    "NOME DO USUARIO": "LEANDRA VITORIA ESMORGES DA COSTA",
+    "CLUBE DE ORIGEM": "PAULO COELHO MACHADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "174",
+    "CPF": "",
+    "NOME DO USUARIO": "LEANDRO DE SOUZA JARA",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "175",
+    "CPF": "",
+    "NOME DO USUARIO": "LEANDRO VIEIRA NOGUEIRA",
+    "CLUBE DE ORIGEM": "TAQUARAL BOSQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "176",
+    "CPF": "",
+    "NOME DO USUARIO": "LODEMIR FELIX",
+    "CLUBE DE ORIGEM": "ALDEIA DE LAGOINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "177",
+    "CPF": "",
+    "NOME DO USUARIO": "LORRANA LIMA SILVA",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "178",
+    "CPF": "",
+    "NOME DO USUARIO": "LUANA LIMA SILVA NASCIMENTO",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "179",
+    "CPF": "",
+    "NOME DO USUARIO": "LUANNA AMARILHA BRUM",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "180",
+    "CPF": "",
+    "NOME DO USUARIO": "LUCAS DE OLIVEIRA GOMES DA SILVA",
+    "CLUBE DE ORIGEM": "SOL NASCENTE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "181",
+    "CPF": "",
+    "NOME DO USUARIO": "LUCAS YURI DUTRA DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "CENTRAL - CAMPO GRANDE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "182",
+    "CPF": "",
+    "NOME DO USUARIO": "LUCIENE ALMEIDA",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "183",
+    "CPF": "",
+    "NOME DO USUARIO": "LUIZ CARLOS DA SILVA FILHO",
+    "CLUBE DE ORIGEM": "CENTRAL - NAVIRAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "184",
+    "CPF": "",
+    "NOME DO USUARIO": "LUÍS FERNANDO DA SILVA SANTOS",
+    "CLUBE DE ORIGEM": "VILA JUQUITA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "185",
+    "CPF": "",
+    "NOME DO USUARIO": "MANOEL LUIZ BOTELHO FILHO",
+    "CLUBE DE ORIGEM": "GRUPO DO PRESÍDIO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "186",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCELO GARCIA DA SILVA",
+    "CLUBE DE ORIGEM": "JARDIM GRAMADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "187",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCELO LACHI",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "188",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCELO M FERREIRA",
+    "CLUBE DE ORIGEM": "MORENINHA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "189",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCELO MOREIRA DA SILVA",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "190",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCOS ANTÔNIO ONORATO JUNIOR",
+    "CLUBE DE ORIGEM": "PÊNFIGO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "191",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCOS JEFFERSON DA SILVA",
+    "CLUBE DE ORIGEM": "PORTAL DA LAGOA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "192",
+    "CPF": "",
+    "NOME DO USUARIO": "MARCUS VINICIUS CAMARA DE LIMA",
+    "CLUBE DE ORIGEM": "IVINHEMA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "193",
+    "CPF": "",
+    "NOME DO USUARIO": "MARIA APARECIDA MOREIRA MARTINS",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "194",
+    "CPF": "",
+    "NOME DO USUARIO": "MARIA EDUARDA OJEDA SALUSTIANO",
+    "CLUBE DE ORIGEM": "MARIA APARECIDA PEDROSSIAN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "195",
+    "CPF": "",
+    "NOME DO USUARIO": "MARIA LUCIA ALVES DE MENDONÇA",
+    "CLUBE DE ORIGEM": "JARDIM MOEMA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "196",
+    "CPF": "",
+    "NOME DO USUARIO": "MARIA VIVIANE GOMES SILVA SANTOS",
+    "CLUBE DE ORIGEM": "VILA JUQUITA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "197",
+    "CPF": "",
+    "NOME DO USUARIO": "MARIANA RAMIRES BUENO",
+    "CLUBE DE ORIGEM": "MONTE CASTELO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "198",
+    "CPF": "",
+    "NOME DO USUARIO": "MARIANNE MONTEIRO MEIRELLES LACHI",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "199",
+    "CPF": "",
+    "NOME DO USUARIO": "MARINA DA SILVA SOUZA",
+    "CLUBE DE ORIGEM": "RANCHARIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "200",
+    "CPF": "",
+    "NOME DO USUARIO": "MARLENN ANTÔNIO DE SOUZA",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "201",
+    "CPF": "",
+    "NOME DO USUARIO": "MARYANNE DE OLIVEIRA BENATTI",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "202",
+    "CPF": "",
+    "NOME DO USUARIO": "MATEUS MASSELANE RIBEIRO",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "203",
+    "CPF": "",
+    "NOME DO USUARIO": "MATHEUS CARVALHO SOUSA",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "204",
+    "CPF": "",
+    "NOME DO USUARIO": "MATHEUS CASTRO DE SALES",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "205",
+    "CPF": "",
+    "NOME DO USUARIO": "MATHEUS FEITOSA MONTEIRO",
+    "CLUBE DE ORIGEM": "ALTOS DA CIDADE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "206",
+    "CPF": "",
+    "NOME DO USUARIO": "MATHEUS LIMA SOARES MIÉRES",
+    "CLUBE DE ORIGEM": "VILA JACY",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "207",
+    "CPF": "",
+    "NOME DO USUARIO": "MAXSON SANTANA DO NASCIMENTO",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "208",
+    "CPF": "",
+    "NOME DO USUARIO": "MAYARA FERREIRA DA SILVA",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "209",
+    "CPF": "",
+    "NOME DO USUARIO": "MAYARA VIEIRA DO NASCIMENTO",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "210",
+    "CPF": "",
+    "NOME DO USUARIO": "MAYRA CRISTINE",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "211",
+    "CPF": "",
+    "NOME DO USUARIO": "MAYRA IZA MEDEIROS OVELAR ROCHA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "212",
+    "CPF": "",
+    "NOME DO USUARIO": "MICHELE SUCI",
+    "CLUBE DE ORIGEM": "COXIM",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "213",
+    "CPF": "",
+    "NOME DO USUARIO": "MILTON RIBEIRO RODRIGUES DE SÁ",
+    "CLUBE DE ORIGEM": "TAQUARAL BOSQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "214",
+    "CPF": "",
+    "NOME DO USUARIO": "MIRIÃ ELIANE FALCO MARTINS",
+    "CLUBE DE ORIGEM": "JARDIM AEROPORTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "215",
+    "CPF": "",
+    "NOME DO USUARIO": "MOISÉS CABANHA BATISTA",
+    "CLUBE DE ORIGEM": "ALVORADA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "216",
+    "CPF": "",
+    "NOME DO USUARIO": "MURILO DAS NEVES MERQUEADES SANTOS",
+    "CLUBE DE ORIGEM": "PORTAL DA LAGOA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "217",
+    "CPF": "",
+    "NOME DO USUARIO": "MURILO FERREIRA BARBOSA",
+    "CLUBE DE ORIGEM": "MARIA APARECIDA PEDROSSIAN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "218",
+    "CPF": "",
+    "NOME DO USUARIO": "MÁRCIA APARECIDA RODRIGUES COSTA",
+    "CLUBE DE ORIGEM": "SILVIA REGINA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "219",
+    "CPF": "",
+    "NOME DO USUARIO": "MÔNICA APARECIDA DA SILVA",
+    "CLUBE DE ORIGEM": "BANDEIRANTES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "220",
+    "CPF": "",
+    "NOME DO USUARIO": "MÔNICA DOS SANTOS ALCÂNTARA MARQUES",
+    "CLUBE DE ORIGEM": "UNIÃO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "221",
+    "CPF": "",
+    "NOME DO USUARIO": "NATHAN GARCIA TOSTA",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "222",
+    "CPF": "",
+    "NOME DO USUARIO": "NATHÁLIA POMPEO OLIVEIRA MOCHIUTI",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "223",
+    "CPF": "",
+    "NOME DO USUARIO": "NELSON NEDE RIBEIRO",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "224",
+    "CPF": "",
+    "NOME DO USUARIO": "NICOLAS SANCHES RODRIGUES",
+    "CLUBE DE ORIGEM": "RANCHARIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "225",
+    "CPF": "",
+    "NOME DO USUARIO": "NILTON FONTES RIBEIRO",
+    "CLUBE DE ORIGEM": "JARDIM CORCOVADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "226",
+    "CPF": "",
+    "NOME DO USUARIO": "NOELENE DA COSTA LIMA SILVA",
+    "CLUBE DE ORIGEM": "JARDIM AEROPORTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "227",
+    "CPF": "",
+    "NOME DO USUARIO": "NOEMI PAIVA MIRANDA CÂMARA",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "228",
+    "CPF": "",
+    "NOME DO USUARIO": "NÁTALY LIMA DE SANTANA MARTINS",
+    "CLUBE DE ORIGEM": "CENTRAL - CAMPO GRANDE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "229",
+    "CPF": "",
+    "NOME DO USUARIO": "PATRÍCIA SALVIANO FELINTO DA SILVA",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "230",
+    "CPF": "",
+    "NOME DO USUARIO": "PEDRO ROCHA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "231",
+    "CPF": "",
+    "NOME DO USUARIO": "PRISCILLA DUARTE DE ARAÚJO",
+    "CLUBE DE ORIGEM": "CENTRAL - CAMPO GRANDE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "232",
+    "CPF": "",
+    "NOME DO USUARIO": "QUÊNIA PINHEIRO TOSTA RAZIEK",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "233",
+    "CPF": "",
+    "NOME DO USUARIO": "RAFAEL DA SILVA ARRUDA",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "234",
+    "CPF": "",
+    "NOME DO USUARIO": "RAFAEL DE MEDEIROS PEREIRA",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "235",
+    "CPF": "",
+    "NOME DO USUARIO": "RAFAEL LUIZ",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "236",
+    "CPF": "",
+    "NOME DO USUARIO": "RAFAELA PEREIRA RODRIGUES",
+    "CLUBE DE ORIGEM": "TIRADENTES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "237",
+    "CPF": "",
+    "NOME DO USUARIO": "RAISSON KAICK CAMPOS DE LIMA",
+    "CLUBE DE ORIGEM": "VILA NOVA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "238",
+    "CPF": "",
+    "NOME DO USUARIO": "RAPHAEL LOUREIRO MODESTO FALCONI",
+    "CLUBE DE ORIGEM": "CENTRAL - NOVA ANDRADINA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "239",
+    "CPF": "",
+    "NOME DO USUARIO": "RAQUEL CRISTINA SILVA DE JESUS",
+    "CLUBE DE ORIGEM": "PÊNFIGO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "240",
+    "CPF": "",
+    "NOME DO USUARIO": "RAQUEL PAES BATISTOTI",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "241",
+    "CPF": "",
+    "NOME DO USUARIO": "RENAN MALDONADO MARQUES",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "242",
+    "CPF": "",
+    "NOME DO USUARIO": "RENATA CRISTH OLIVEIRA FRANTZ",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "243",
+    "CPF": "",
+    "NOME DO USUARIO": "RENATO AUGUSTO DOS SANTOS",
+    "CLUBE DE ORIGEM": "JARDIM BATISTÃO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "244",
+    "CPF": "",
+    "NOME DO USUARIO": "RICARDO POMPEO FRANTZ",
+    "CLUBE DE ORIGEM": "AMAMBAI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "245",
+    "CPF": "",
+    "NOME DO USUARIO": "ROBERVÂNIA FERREIRA ALVES",
+    "CLUBE DE ORIGEM": "MORENINHA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "246",
+    "CPF": "",
+    "NOME DO USUARIO": "ROBSON GONSALVES DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "247",
+    "CPF": "",
+    "NOME DO USUARIO": "RODRIGO FALSON PINHEIRO",
+    "CLUBE DE ORIGEM": "BAIRRO TAQUARUSSU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "248",
+    "CPF": "",
+    "NOME DO USUARIO": "RODRIGO OSEIAS ASSI",
+    "CLUBE DE ORIGEM": "ASSOCIAÇÃO SUL MATO-GROSSENSE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "249",
+    "CPF": "",
+    "NOME DO USUARIO": "RODRIGO VIEIRA ARCE",
+    "CLUBE DE ORIGEM": "UNIVERSITÁRIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "250",
+    "CPF": "",
+    "NOME DO USUARIO": "ROGERS DE PELLE",
+    "CLUBE DE ORIGEM": "BAIRRO PROGRESSO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "251",
+    "CPF": "",
+    "NOME DO USUARIO": "ROGÉRIO SILVA DO CARMO",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "252",
+    "CPF": "",
+    "NOME DO USUARIO": "ROMENIK SILVA BRITO",
+    "CLUBE DE ORIGEM": "SÃO CONRADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "253",
+    "CPF": "",
+    "NOME DO USUARIO": "RONI WILLIAN AGUINE",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "254",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSA APARECIDA",
+    "CLUBE DE ORIGEM": "NOVA VIDA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "255",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSANA CHARÃO ALMADA",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "256",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSANEIDE FERREIRA GOMES SOARES",
+    "CLUBE DE ORIGEM": "JARDIM GRAMADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "257",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSELENE PEREIRA MIRA",
+    "CLUBE DE ORIGEM": "CENTRAL - CAMPO GRANDE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "258",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSILENE FERREIRA SANTANA",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "259",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSILENE VIANA GONÇALVES",
+    "CLUBE DE ORIGEM": "JARDIM LEBLON",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "260",
+    "CPF": "",
+    "NOME DO USUARIO": "ROSIMAR DE JESUS DE SOUZA ALMEIDA",
+    "CLUBE DE ORIGEM": "RIBAS DO RIO PARDO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "261",
+    "CPF": "",
+    "NOME DO USUARIO": "RUTI LESSA DA SILVA CANDELORO",
+    "CLUBE DE ORIGEM": "ALVES PEREIRA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "262",
+    "CPF": "",
+    "NOME DO USUARIO": "RYAN RODRIGUES DE FARIAS",
+    "CLUBE DE ORIGEM": "MARIA APARECIDA PEDROSSIAN",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "263",
+    "CPF": "",
+    "NOME DO USUARIO": "RÚBIA MARA CAMPOSSANO ANTUNES",
+    "CLUBE DE ORIGEM": "MARACAJU",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "264",
+    "CPF": "",
+    "NOME DO USUARIO": "SAMUEL CÂNDIDO RODRIGUES",
+    "CLUBE DE ORIGEM": "CENTRAL - SIDROLÂNDIA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "265",
+    "CPF": "",
+    "NOME DO USUARIO": "SAMUEL DAVI BORGES PAPA",
+    "CLUBE DE ORIGEM": "JARDIM NOVA LIMA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "266",
+    "CPF": "",
+    "NOME DO USUARIO": "SAMUEL DE JESUS OLIVEIRA LEAL",
+    "CLUBE DE ORIGEM": "VIVA VIDA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "267",
+    "CPF": "",
+    "NOME DO USUARIO": "SANDRA MATTOS DA SILVA LOPES",
+    "CLUBE DE ORIGEM": "MARECHAL RONDON",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "268",
+    "CPF": "",
+    "NOME DO USUARIO": "SARAH ESTHER OLIVEIRA GONÇALVES ARAUJO",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "269",
+    "CPF": "",
+    "NOME DO USUARIO": "SEBASTIANA PEREIRA SESÉ",
+    "CLUBE DE ORIGEM": "ALDEIA DE LAGOINHA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "270",
+    "CPF": "",
+    "NOME DO USUARIO": "SEVERINO HENRIQUE DO NASCIMENTO JUNIOR",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "271",
+    "CPF": "",
+    "NOME DO USUARIO": "SILENE SANTANA  CRUZ  CARVALHO",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "272",
+    "CPF": "",
+    "NOME DO USUARIO": "SILVIA FERREIRA DE ALMEIDA",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "273",
+    "CPF": "",
+    "NOME DO USUARIO": "SIONARA DE ALMEIDA",
+    "CLUBE DE ORIGEM": "OLIVEIRA III",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "274",
+    "CPF": "",
+    "NOME DO USUARIO": "SOFIA DE SOUZA LEITE",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "275",
+    "CPF": "",
+    "NOME DO USUARIO": "SONIA PEREIRA DO NASCIMENTO",
+    "CLUBE DE ORIGEM": "JARDIM CORCOVADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "276",
+    "CPF": "",
+    "NOME DO USUARIO": "TALISSON FRANCO",
+    "CLUBE DE ORIGEM": "COXIM",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "277",
+    "CPF": "",
+    "NOME DO USUARIO": "TATIANE CRISTINA DE SOUZA",
+    "CLUBE DE ORIGEM": "TIRADENTES",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "278",
+    "CPF": "",
+    "NOME DO USUARIO": "THAIS REGINA SANTIAGO LOCATELLI",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "279",
+    "CPF": "",
+    "NOME DO USUARIO": "THAIS SILVESTRE BRITO",
+    "CLUBE DE ORIGEM": "VILA NOGUEIRA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "280",
+    "CPF": "",
+    "NOME DO USUARIO": "THIAGO CARMONA DE OLIVEIRA",
+    "CLUBE DE ORIGEM": "PAULO COELHO MACHADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "281",
+    "CPF": "",
+    "NOME DO USUARIO": "THIAGO LIMA",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "282",
+    "CPF": "",
+    "NOME DO USUARIO": "THOMAS JEFERSON SALVIANO DA SILVA",
+    "CLUBE DE ORIGEM": "SANTO AMARO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "283",
+    "CPF": "",
+    "NOME DO USUARIO": "TIAGO ALMEIDA DOS SANTOS",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "284",
+    "CPF": "",
+    "NOME DO USUARIO": "TONI WESLLEY MENDES GONZALEZ",
+    "CLUBE DE ORIGEM": "JARDIM AEROPORTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "285",
+    "CPF": "",
+    "NOME DO USUARIO": "UDENIR ALVES DE ARAÚJO",
+    "CLUBE DE ORIGEM": "BETHAVILLE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "286",
+    "CPF": "",
+    "NOME DO USUARIO": "UISLE FRANCISCO DE ALMEIDA JERÔNIMO",
+    "CLUBE DE ORIGEM": "JARDIM BATISTÃO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "287",
+    "CPF": "",
+    "NOME DO USUARIO": "VALCIDES SILVA DOS SANTOS",
+    "CLUBE DE ORIGEM": "JARDIM AEROPORTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "288",
+    "CPF": "",
+    "NOME DO USUARIO": "VALDINAR DOS SANTOS CAMPOS",
+    "CLUBE DE ORIGEM": "PORTAL CAIOBA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "289",
+    "CPF": "",
+    "NOME DO USUARIO": "VALDIR BORGES VIEIRA",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "290",
+    "CPF": "",
+    "NOME DO USUARIO": "VALDIR DA SILVA BUREMAN",
+    "CLUBE DE ORIGEM": "VILA NASSER",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "291",
+    "CPF": "",
+    "NOME DO USUARIO": "VANESSA CORREIA DA SILVA DE BARROS",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "292",
+    "CPF": "",
+    "NOME DO USUARIO": "VERIDIANY DA SILVA DIAS",
+    "CLUBE DE ORIGEM": "PAULO COELHO MACHADO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "293",
+    "CPF": "",
+    "NOME DO USUARIO": "VICTOR HUGO LEMES DE FARIAS",
+    "CLUBE DE ORIGEM": "NIOAQUE",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "294",
+    "CPF": "",
+    "NOME DO USUARIO": "VINICIUS ABELHAN STEFANI",
+    "CLUBE DE ORIGEM": "COHAB",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "295",
+    "CPF": "",
+    "NOME DO USUARIO": "VINICIUS IMPERADOR DE SOUZA",
+    "CLUBE DE ORIGEM": "BAIRRO PROGRESSO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "296",
+    "CPF": "",
+    "NOME DO USUARIO": "VITOR HUGO DOS SANTOS DUARTE",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "297",
+    "CPF": "",
+    "NOME DO USUARIO": "VITOR RODRIGUES DE SOUZA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "298",
+    "CPF": "",
+    "NOME DO USUARIO": "VITÓRIA RODRIGUES DE SOUZA",
+    "CLUBE DE ORIGEM": "CENTRAL - DOURADOS",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "299",
+    "CPF": "",
+    "NOME DO USUARIO": "VIVIANE VILANOVA RODRIGUES",
+    "CLUBE DE ORIGEM": "LADÁRIO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "300",
+    "CPF": "",
+    "NOME DO USUARIO": "WASHINGTON DE LIMA SOUZA",
+    "CLUBE DE ORIGEM": "JARDIM MOEMA",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "301",
+    "CPF": "",
+    "NOME DO USUARIO": "WESLLEY LEANDRO DE SOUZA BACELAR",
+    "CLUBE DE ORIGEM": "JARDIM BATISTÃO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "302",
+    "CPF": "",
+    "NOME DO USUARIO": "WESLYNSON DA SILVA DE AQUINO",
+    "CLUBE DE ORIGEM": "COOPHAVILLA II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "303",
+    "CPF": "",
+    "NOME DO USUARIO": "WILLIAM FERREIRA",
+    "CLUBE DE ORIGEM": "JARDIM BATISTÃO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "304",
+    "CPF": "",
+    "NOME DO USUARIO": "WILSON ROCHA DA SILVA JUNIOR",
+    "CLUBE DE ORIGEM": "VILA PLANALTO",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "305",
+    "CPF": "",
+    "NOME DO USUARIO": "WIRLLEY ALVES DE ARAUJO",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "306",
+    "CPF": "",
+    "NOME DO USUARIO": "YAN MATHEUS SILVA LOPES",
+    "CLUBE DE ORIGEM": "JARDIM BÁLSAMO II",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "307",
+    "CPF": "",
+    "NOME DO USUARIO": "YASMIM MARTINS E OLIVEIRA REY",
+    "CLUBE DE ORIGEM": "BAIRRO AMAMBAÍ",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "308",
+    "CPF": "",
+    "NOME DO USUARIO": "ÁLVARO CESAR RODRIGUES GOMES",
+    "CLUBE DE ORIGEM": "GUANANDI",
+    "CHECKOUT": ""
+  },
+  {
+    "_id": "309",
+    "CPF": "",
+    "NOME DO USUARIO": "ÁTHINA QUINTINO PEREIRA",
+    "CLUBE DE ORIGEM": "MATA DO JACINTO",
+    "CHECKOUT": ""
+  }
+  ]
+}
